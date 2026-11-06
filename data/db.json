@@ -1,0 +1,122 @@
+{
+  "adminPasswordHash": "59612f7ff179e08914aa14cb4b19b718b1c9416f341488b1da8c425e459309b4",
+  "config": {
+    "title": "2026 AI 테크 & 글로벌 이노베이션 컨퍼런스",
+    "subtitle": "디지털 전환 시대를 선도하는 기술 트렌드와 네트워킹의 장",
+    "description": "AI, 클라우드, 데이터 기술의 최신 혁신 사례를 공유하고 업계 실무자 및 리더들과 교류하는 네트워킹 이벤트입니다.",
+    "eventDate": "2026년 11월 20일 (금) 14:00 ~ 18:00",
+    "location": "서울 코엑스 그랜드볼룸 & 온라인 동시 진행",
+    "maxCapacity": 200,
+    "isOpen": true,
+    "organizer": "테크이노베이션 포럼 사무국",
+    "contactEmail": "contact@techevent2026.org"
+  },
+  "applicants": [
+    {
+      "id": "app-01",
+      "name": "김도현",
+      "org": "네이버 클라우드 플랫폼",
+      "phone": "01012345678",
+      "email": "dohyun.kim@navercorp.com",
+      "gender": "남성",
+      "consent": true,
+      "consentAt": "2026-11-03T02:30:20.361Z",
+      "submittedAt": "2026-11-03T02:30:20.362Z",
+      "status": "당첨",
+      "memo": "VIP 세션 초대장 사전 발송 완료",
+      "drawnAt": "2026-11-05T02:30:20.362Z"
+    },
+    {
+      "id": "app-02",
+      "name": "이지은",
+      "org": "토스 인프라팀",
+      "phone": "01023456789",
+      "email": "jieun.lee@toss.im",
+      "gender": "여성",
+      "consent": true,
+      "consentAt": "2026-11-03T14:30:20.362Z",
+      "submittedAt": "2026-11-03T14:30:20.362Z",
+      "status": "당첨",
+      "memo": "패널 토론 질문 사전 접수",
+      "drawnAt": "2026-11-05T02:30:20.362Z"
+    },
+    {
+      "id": "app-03",
+      "name": "박민우",
+      "org": "당근마켓 ML팀",
+      "phone": "01034567890",
+      "email": "minwoo.park@daangn.com",
+      "gender": "남성",
+      "consent": true,
+      "consentAt": "2026-11-04T02:30:20.362Z",
+      "submittedAt": "2026-11-04T02:30:20.362Z",
+      "status": "확인",
+      "memo": "현장 등록 희망"
+    },
+    {
+      "id": "app-04",
+      "name": "최수연",
+      "org": "우아한형제들 프로덕트팀",
+      "phone": "01045678901",
+      "email": "suyeon.c@woowahan.com",
+      "gender": "여성",
+      "consent": true,
+      "consentAt": "2026-11-04T07:18:20.362Z",
+      "submittedAt": "2026-11-04T07:18:20.362Z",
+      "status": "확인",
+      "memo": ""
+    },
+    {
+      "id": "app-05",
+      "name": "정현우",
+      "org": "카카오 엔터프라이즈",
+      "phone": "01056789012",
+      "email": "hyunwoo.jung@kakaoenterprise.com",
+      "gender": "남성",
+      "consent": true,
+      "consentAt": "2026-11-04T21:42:20.362Z",
+      "submittedAt": "2026-11-04T21:42:20.362Z",
+      "status": "접수",
+      "memo": "동행인 1인 문의"
+    },
+    {
+      "id": "app-06",
+      "name": "강서윤",
+      "org": "라인플러스 글로벌개발",
+      "phone": "01067890123",
+      "email": "seoyun.kang@linecorp.com",
+      "gender": "여성",
+      "consent": true,
+      "consentAt": "2026-11-05T04:54:20.362Z",
+      "submittedAt": "2026-11-05T04:54:20.362Z",
+      "status": "접수",
+      "memo": ""
+    },
+    {
+      "id": "app-07",
+      "name": "윤재호",
+      "org": "서울대학교 컴퓨터공학부",
+      "phone": "01078901234",
+      "email": "jaeho.yoon@snu.ac.kr",
+      "gender": "남성",
+      "consent": true,
+      "consentAt": "2026-11-05T14:30:20.362Z",
+      "submittedAt": "2026-11-05T14:30:20.362Z",
+      "status": "접수",
+      "memo": "학생 참가 할인 문의"
+    },
+    {
+      "id": "app-08",
+      "name": "한예린",
+      "org": "스타트업 얼라이언스",
+      "phone": "01089012345",
+      "email": "yerin.han@startupall.kr",
+      "gender": "여성",
+      "consent": true,
+      "consentAt": "2026-11-05T21:42:20.362Z",
+      "submittedAt": "2026-11-05T21:42:20.362Z",
+      "status": "취소",
+      "memo": "일정 중복으로 참가 취소 요청"
+    }
+  ]
+}

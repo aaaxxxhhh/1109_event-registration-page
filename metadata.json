@@ -1,0 +1,8 @@
+{
+  "name": "이벤트 신청 및 DB 관리 시스템",
+  "description": "이벤트 참가 신청 접수, 실시간 신청자 DB 관리, 당첨자 추첨 및 데이터 내보내기가 가능한 웹 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
